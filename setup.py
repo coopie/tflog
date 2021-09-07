@@ -22,7 +22,7 @@ setup(
     install_requires=[
         'scipy==1.0.0',
         'tensorflow>=1.0<2.0',
-        'Pillow==5.0.0'
+        'Pillow==8.3.2'
     ],
     py_modules=['example'],
     zip_safe=True
